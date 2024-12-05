@@ -1,0 +1,28 @@
+.text-justify {
+  text-align: justify;
+}
+
+.text-primary {
+  color: #007bff;
+}
+
+.text-muted {
+  color: #6c757d;
+}
+
+.shadow-lg {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.fst-italic {
+  font-style: italic;
+}
+img:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease-in-out;
+}
+.profile-img {
+  width: 400px; /* Atur ukuran sesuai kebutuhan */
+  height: 400px;
+  object-fit: cover; /* Agar proporsi gambar tetap terjaga */
+}
